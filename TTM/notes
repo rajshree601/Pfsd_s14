@@ -1,0 +1,9 @@
+17-02-2023
+-> Every model class will have inner class known as meta to indicate the name of the table.
+-> Migration means to create a table at backend database based on the model class
+
+20-02-24
+-> All Model class contains inner class known as Meta class which is optional
+-> Meta class indicates the name of table
+-> Table conntains collection of rows
+
